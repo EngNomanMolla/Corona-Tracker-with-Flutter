@@ -1,4 +1,4 @@
-# covid_2010
+# covid_2019
 
 A new Flutter application.
 
